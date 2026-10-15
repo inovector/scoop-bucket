@@ -1,0 +1,22 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/inovector/mixpost-cli/releases/download/v0.1.0/mixpost_0.1.0_windows_amd64.zip",
+            "bin": [
+                "mixpost.exe"
+            ],
+            "hash": "2b5599592284f73d40fc54aaf23151d04a85ef653d806a4454a3433d07158087"
+        },
+        "arm64": {
+            "url": "https://github.com/inovector/mixpost-cli/releases/download/v0.1.0/mixpost_0.1.0_windows_arm64.zip",
+            "bin": [
+                "mixpost.exe"
+            ],
+            "hash": "4a96db43fa144f426c2e72fb0971b9909358b6e72959478e2a710946750d799b"
+        }
+    },
+    "homepage": "https://mixpost.app",
+    "license": "MIT",
+    "description": "Command line client for the Mixpost API"
+}
