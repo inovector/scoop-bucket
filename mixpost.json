@@ -1,19 +1,19 @@
 {
-    "version": "0.1.1",
+    "version": "0.2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/inovector/mixpost-cli/releases/download/v0.1.1/mixpost_0.1.1_windows_amd64.zip",
+            "url": "https://github.com/inovector/mixpost-cli/releases/download/v0.2.0/mixpost_0.2.0_windows_amd64.zip",
             "bin": [
                 "mixpost.exe"
             ],
-            "hash": "4f7eebb046f9fdf13f8ebdd07c1d9e70cd74845f65a329059bdc63614b785771"
+            "hash": "35eab59d7b034f79d59622dd4f264247cffb1da1eeeb6d6b029ba42a53a79d5a"
         },
         "arm64": {
-            "url": "https://github.com/inovector/mixpost-cli/releases/download/v0.1.1/mixpost_0.1.1_windows_arm64.zip",
+            "url": "https://github.com/inovector/mixpost-cli/releases/download/v0.2.0/mixpost_0.2.0_windows_arm64.zip",
             "bin": [
                 "mixpost.exe"
             ],
-            "hash": "222e2ce671f3b8badb9c6f5e94c7f6a394b83b82c3fa58351860719ce2d24623"
+            "hash": "0a757eebf1b51dfb8dac408ada8adfd9cc0c309846c50c8b4fd7e8643d871bbb"
         }
     },
     "homepage": "https://mixpost.app",
